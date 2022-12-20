@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "spicycat-lkmeyw"
+  },
+  "targets": {
+    "spicycat-lkmeyw": {
+      "hosting": {
+        "eloop-ilmsg-in-th": [
+          "eloop-ilmsg-in-th"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
